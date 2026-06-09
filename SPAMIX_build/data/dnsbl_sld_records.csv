@@ -1,0 +1,5 @@
+sld,dnsbl,flag,start_time,end_time,cnt,client_count,date
+example.com,spamhaus.org,black,2024-01-01 00:00:00,2024-01-10 00:00:00,1000,100,2024-01-05
+example.com,surbl.org,black,2024-01-01 00:00:00,2024-01-08 00:00:00,800,80,2024-01-04
+test.org,spamhaus.org,white,2024-02-01 00:00:00,2024-02-15 00:00:00,50,10,2024-02-10
+test.org,surbl.org,black,2024-01-10 00:00:00,2024-01-20 00:00:00,400,40,2024-01-15
